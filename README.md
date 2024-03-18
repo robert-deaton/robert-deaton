@@ -1,6 +1,6 @@
 Hello, I’m @robert-deaton ! (they/them)
 
-I'm studying math and physics at Georgia Tech, and intend to study math in grad school, most likely in the realm analysis or geometry.
+I'm studying math and physics at Georgia Tech, and intend to study math in grad school, most likely in the realm of analysis or geometry.
 
 Currently I'm working on quantum computing research! Much of what I put on GitHub will likely be things I've written for various research projects, but there may also be personal projects old and new alike.
 
