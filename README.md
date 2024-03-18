@@ -1,4 +1,4 @@
-Hello, I’m @robert-deaton (they/them) !
+Hello, I’m @robert-deaton ! (they/them)
 
 I'm studying math and physics at Georgia Tech, and intend to study math in grad school, most likely in the realm analysis or geometry.
 
